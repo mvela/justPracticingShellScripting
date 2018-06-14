@@ -33,5 +33,9 @@ num7=1
 num8=3
 echo $((num7+num8))
 
+cat<< END
+This text prints many lines
+END
+
 
 
